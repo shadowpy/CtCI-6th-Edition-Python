@@ -1,4 +1,4 @@
-# O(N)
+# Time O(N) Space O(1)
 import unittest
 
 
